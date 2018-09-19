@@ -4,11 +4,11 @@ Purpose of the assignment was to create environmental variables: a temporary, an
 
 For the first task, I used bash commands in terminal to declare and define enrironmental variable for a single session.
 
-![Alt text] (/PUI2018_em3845/HW1_em3845/images/pui1.png)
+![Alt text](/images/pui1.png)
 
 
 For the second one, I modified the .bashrc file to create a constant environmental variable and alias.
 
-![Alt text] (/PUI2018_em3845/HW1_em3845/images/pui2.png)
+![Alt text](/images/pui2.png)
 
 
