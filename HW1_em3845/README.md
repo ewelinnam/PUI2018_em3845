@@ -10,5 +10,3 @@ For the first task, I used bash commands in terminal to declare and define enrir
 For the second one, I modified the .bashrc file to create a constant environmental variable and alias.
 
 ![Alt text](/images/pui2.png)
-
-
