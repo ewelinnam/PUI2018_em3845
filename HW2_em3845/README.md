@@ -4,3 +4,6 @@ Homework 2
 ![alt text](screenshots/1_1puiHW2.png)
 ![alt_text](screenshots/1_2puiHW2.png)
 ### 2. Later on, using commands from the lab, I deleted it from history. This is what it looks like in history now:
+![alt text](screenshots/1_3puiHW2.png)
+![alt_text](screenshots/1_4puiHW2.png)
+Success!
