@@ -34,14 +34,6 @@ data = response.read().decode("utf-8")
 dataDict = json.loads(data)
 
 
-# In[243]:
-
-
-dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][0]['MonitoredVehicleJourney']['VehicleLocation']
-
-
-# In[244]:
-
 
 trips = len(dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
 location = list()
