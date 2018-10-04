@@ -2,7 +2,7 @@
 
 # Assignment 1:
 
-Recreated the distributions experiment for 5 types of distributions, and then joined all means to one histogram. Final result on the histogram seemed to prove the law of large data, where majority of means for all experiments revolved around set mean of 100.
+Recreated the distributions experiment for 5 types of distributions, and then joined all means to one histogram. Final result on the histogram seemed to prove the law of large numbers, where majority of means for all experiments revolved around set mean of 100.
 
 # Assignment 2:
 
